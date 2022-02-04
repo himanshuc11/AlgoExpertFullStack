@@ -27,7 +27,11 @@ https://eager-khorana-f1f606.netlify.app/
 # Full-Stack Architecture
 
 ![Full-Stack Image](https://user-images.githubusercontent.com/80830461/152535388-10d49128-c00b-4280-b5c2-b8a8ea6b7ce1.jpeg)
+
+# Database Architecture
 ![Database Architecture](https://user-images.githubusercontent.com/80830461/152535487-ca9c9abb-42b6-456c-a297-c8bf68ac8dc7.jpeg)
+
+# FrontEnd Architecture
 ![Frontend Architecture](https://user-images.githubusercontent.com/80830461/152535570-7b14291f-b25c-48fa-aaf3-7d6a2e250f4a.jpeg)
 
 
