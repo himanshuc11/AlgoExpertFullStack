@@ -11,8 +11,13 @@ https://eager-khorana-f1f606.netlify.app/
 + Storing of Executed code on Backend
 
 ## UI Demo
+![ui_overview](https://user-images.githubusercontent.com/80830461/152632145-c610566f-3af7-49ec-b83c-db816a98e88e.gif)
+
 ## Authentication Demo
+![login](https://user-images.githubusercontent.com/80830461/152632133-9b029de2-483a-45e0-a602-6baf69df962d.gif)
+
 ## Payment Demo
+
 ## Code Execution Demo
 
 # Tech Stack
