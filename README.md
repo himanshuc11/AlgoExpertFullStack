@@ -17,8 +17,10 @@ https://eager-khorana-f1f606.netlify.app/
 ![login](https://user-images.githubusercontent.com/80830461/152632133-9b029de2-483a-45e0-a602-6baf69df962d.gif)
 
 ## Payment Demo
+![payment](https://github.com/himanshuc11/AlgoExpertFullStack/blob/master/payment.gif)
 
 ## Code Execution Demo
+
 
 # Tech Stack
 + React
