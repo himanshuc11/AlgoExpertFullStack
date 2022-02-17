@@ -42,5 +42,14 @@ https://eager-khorana-f1f606.netlify.app/
 ![Frontend Architecture](https://user-images.githubusercontent.com/80830461/152535570-7b14291f-b25c-48fa-aaf3-7d6a2e250f4a.jpeg)
 
 
+# Learning Outcome
++ How to perform Basic Remote Code Execution
++ How to use Functional Components in React
++ Include various NPM packages for performing certain sections
 
-
+# Improvement's that can be made
++ Allow user to execute code in languages other than Python
++ Increase security measure, by running the Remote code on some container like Docker
++ Allow users to save multiple solutions for the same question
++ Allow user to write notes corresponding to the questions
++ Implement timer to time the user solution
