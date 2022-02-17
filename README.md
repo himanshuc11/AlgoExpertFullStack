@@ -45,7 +45,7 @@ https://eager-khorana-f1f606.netlify.app/
 # Learning Outcome
 + How to perform Basic Remote Code Execution
 + How to use Functional Components in React
-+ Include various NPM packages for performing certain sections
++ Include various NPM packages for performing certain tasks
 
 # Improvement's that can be made
 + Allow user to execute code in languages other than Python
