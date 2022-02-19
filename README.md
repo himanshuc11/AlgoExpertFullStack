@@ -46,6 +46,7 @@ https://eager-khorana-f1f606.netlify.app/
 + How to perform Basic Remote Code Execution
 + How to use Functional Components in React
 + Include various NPM packages for performing certain tasks
++ How to use Context instead of drilling down props
 
 # Improvement's that can be made
 + Allow user to execute code in languages other than Python
